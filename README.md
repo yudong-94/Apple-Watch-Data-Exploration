@@ -12,7 +12,15 @@ This includes all the workout records (all the ['HKWorkoutActivityType' objects]
 3. **Daily Summary Data**  
 This includes a daily stats summary from the 'Activity' App, basically your move/exercise/stand hour target vs. actual.  
 
-### Open Questions
+Of course the dataset will not be posted in this repo due to data privacy, but you can always find a snapshot in the code :)  
+
+## Notebooks (WIP)
+1. [**Apple Watch Export Data Extraction**](https://github.com/yudong-94/Apple-Watch-Data-Exploration/blob/master/Apple%20Watch%20Export%20Data%20Extract.ipynb)  
+This notebook is on how to extract the data from the exported XML file and convert to pandas dataframes and csv files.   
+2. [**Heart Rate Data EDA**](https://github.com/yudong-94/Apple-Watch-Data-Exploration/blob/master/Apple%20Watch%20Export%20Data%20-%20Heart%20Rate%20EDA.ipynb)  
+This notebook focus on understanding, analyzing, and visualizing the heart rate data extrated. It looked at the relationship and difference among heart rate, resting heart rate, and walking heart rate records, and explored the pattern of the heart rates during weekdays/weekends and on different hours of a day.  
+
+## Open Questions
 
 Below is a list of questions I am interested to look at:  
 1. What is my typical heart rate looks like, how it is distributed, and how it differs while resting / walking / workout?  
