@@ -19,6 +19,8 @@ Of course the dataset will not be posted in this repo due to data privacy, but y
 This notebook is on how to extract the data from the exported XML file and convert to pandas dataframes and csv files.   
 2. [**Heart Rate Data EDA**](https://github.com/yudong-94/Apple-Watch-Data-Exploration/blob/master/Apple%20Watch%20Export%20Data%20-%20Heart%20Rate%20EDA.ipynb)  
 This notebook focus on understanding, analyzing, and visualizing the heart rate data extrated. It looked at the relationship and difference among heart rate, resting heart rate, and walking heart rate records, and explored the pattern of the heart rates during weekdays/weekends and on different hours of a day.  
+2. [**Energy Data EDA**](https://github.com/yudong-94/Apple-Watch-Data-Exploration/blob/master/Apple%20Watch%20Export%20Data%20-%20Energy%20Data%20EDA.ipynb)  
+This notebook focus on understanding, analyzing, and visualizing the energy burned data extrated. It tried to understand the granularity of each record, looked at the difference beetween Basal Energy Burned and Active Energy Burned, explored their trend over time, and pattern on different time of day and on different weekdays.    
 
 ## Open Questions
 
